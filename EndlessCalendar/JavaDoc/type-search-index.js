@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"pl.zycinski","l":"DayOfWeek"},{"p":"pl.zycinski","l":"EndlessCalendar"}]
